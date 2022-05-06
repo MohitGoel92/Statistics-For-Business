@@ -61,4 +61,4 @@ The diagram below shows us a discrete distribution and a continuous distribution
 
 [4](https://en.wikipedia.org/wiki/Probability_distribution). Wikipedia: Probability Distribution
 
-[5](https://twitter.com/statsatoz/status/964159304067633153?lang=zh-Hant). Twitter post: Statistics A-Z
+[5](https://twitter.com/statsatoz/status/964159304067633153?lang=zh-Hant). Twitter post: @statsatoz – Statistics A-Z
