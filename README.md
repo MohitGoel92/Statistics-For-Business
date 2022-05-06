@@ -36,7 +36,7 @@ In this section, we will be covering the below:
 
 The diagram below visually depicts the difference between these two data types: [3]
 
-<p align="center"> <img width="2000" src= "/Pics_S/s1.png"> </p>
+<p align="center"> <img width="2000" src= "/Pics_S/s101.png"> </p>
 
 # References
 
