@@ -89,7 +89,7 @@ From the above, we observe that 68.2% of the population lies within one standard
 
 The general form of probability density function is 
 
-<p align="center"> <img width="1000" src= "/Pics_S/NDPDF.png"> </p>
+<p align="center"> <img width="500" src= "/Pics_S/NDPDF.png"> </p>
 
 Properties of the Normal Distributions:
 
