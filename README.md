@@ -79,11 +79,11 @@ In statistics, a Normal Distribution (also known as Gaussian, Gauss, bell curves
 
 The diagram below gives the Normal Distribution curve
 
-<p align="center"> <img width="2000" src= "/Pics_S/ND.png"> </p>
+<p align="center"> <img width="1500" src= "/Pics_S/ND.png"> </p>
 
 The general form of probability density function is 
 
-<p align="center"> <img width="750" src= "/Pics_S/NDPDF.png"> </p>
+<p align="center"> <img width="500" src= "/Pics_S/NDPDF.png"> </p>
 
 The parameter *μ* is the mean or expectation of the distribution (and also its median and mode), while the parameter *σ* is its standard deviation. The variance of the distribution is σ^2. 
 
