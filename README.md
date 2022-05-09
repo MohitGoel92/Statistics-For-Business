@@ -89,4 +89,4 @@ The standard deviation (or population standard deviation, σ) is given by:
 
 [6](https://en.wikipedia.org/wiki/Standard_deviation). Wikipedia: Standard Deviation
 
-[7](https://www.investopedia.com/terms/v/variance.asp#:~:text=In%20statistics%2C%20variance%20measures%20variability,values%20in%20the%20data%20set.). Investopedia: Variance
+[7] (https://www.investopedia.com/terms/v/variance.asp#:~:text=In%20statistics%2C%20variance%20measures%20variability,values%20in%20the%20data%20set.). Investopedia: Variance
