@@ -85,7 +85,18 @@ The general form of probability density function is
 
 <p align="center"> <img width="500" src= "/Pics_S/NDPDF.png"> </p>
 
-The parameter *μ* is the mean or expectation of the distribution (and also its median and mode), while the parameter *σ* is its standard deviation. The variance of the distribution is σ^2. 
+Properties of the Normal Distributions:
+
+- The mean, median and mode are exactly the same.
+- The distribution is symmetric about the mean—half the values fall below the mean and half above the mean.
+- The distribution can be described by two values: the mean and the standard deviation.
+
+The below diagrams show the Normal Distribution with different means, and the Normal Distribution with different standard deviations: [9]
+
+<p align="center"> <img width="500" src= "/Pics_S/NDM.png"> </p>
+
+<p align="center"> <img width="500" src= "/Pics_S/NDSD.png"> </p>
+
 
 # References
 
