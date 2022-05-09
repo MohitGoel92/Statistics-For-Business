@@ -51,6 +51,11 @@ The diagram below shows us a discrete distribution and a continuous distribution
 
 <p align="center"> <img width="2000" src= "/Pics_S/s2.jpg"> </p>
 
+**Note:** For continuous distributions, the probability is found as an area under the curve. The total area under the curve is 100%, and we are unable to find the probability of a single line as the area of a line is negligable.
+
+### Standard Deviation
+
+**Standard Deviation:** The standard deviation is a measure of the amount of variation or dispersion of a set of values. A low standard deviation indicates that the values tend to be close to the mean (also called the expected value) of the set, while a high standard deviation indicates that the values are spread out over a wider range. [6]
 
 # References
 
@@ -63,3 +68,5 @@ The diagram below shows us a discrete distribution and a continuous distribution
 [4](https://en.wikipedia.org/wiki/Probability_distribution). Wikipedia: Probability Distribution
 
 [5](https://twitter.com/statsatoz/status/964159304067633153?lang=zh-Hant). Twitter post: @statsatoz – Statistics A-Z
+
+[6](https://en.wikipedia.org/wiki/Standard_deviation). Wikipedia: Standard Deviation
