@@ -9,10 +9,10 @@ I hope you enjoy this course just as much as I have enjoyed making it and teachi
 - Section 1: Distributions
   - Continuous Vs Discrete data. 
   - What is a distribution?
+  - Mean, Median, Mode.
   - Standard Deviation.
   - Normal Distribution.
   - Skewness.
-  - Mean, Median, Mode.
   - Correlation
 
 - Section 2: Central Limit Theorem
@@ -52,6 +52,10 @@ The diagram below shows us a discrete distribution and a continuous distribution
 <p align="center"> <img width="2000" src= "/Pics_S/s2.jpg"> </p>
 
 **Note:** For continuous distributions, the probability is found as an area under the curve. The total area under the curve is 100%, and we are unable to find the probability of a single line as the area of a line is negligable.
+
+### Mean, Mode and Median
+
+
 
 ### Standard Deviation
 
@@ -101,7 +105,13 @@ The below diagrams show the Normal Distribution with different means, the Normal
 
 <p align="center"> <img width="500" src= "/Pics_S/NDMSD.png"> </p>
 
+### Skewness
 
+**Skewness:** Skewness is a measure of the asymmetry of the probability distribution of a real-valued random variable about its mean. The skewness value can be positive, zero, negative, or undefined. For a unimodal distribution, negative skew commonly indicates that the tail is on the left side of the distribution, and positive skew indicates that the tail is on the right. [10]
+
+The below diagram illustrates positive, symmetrical and negative skewness respectively. [10]
+
+<p align="center"> <img width="500" src= "/Pics_S/SKEW.png"> </p>
 
 # References
 
@@ -122,3 +132,5 @@ The below diagrams show the Normal Distribution with different means, the Normal
 [8](https://en.wikipedia.org/wiki/Normal_distribution). Wikipedia: Normal distribution
 
 [9](https://www.scribbr.com/statistics/normal-distribution/#:~:text=Height%2C%20birth%20weight%2C%20reading%20ability,designed%20for%20normally%20distributed%20populations.). Scribbr: Normal Distribution | Examples, Formulas, & Uses
+
+[10](https://en.wikipedia.org/wiki/Skewness). Wikipedia: Skewness
