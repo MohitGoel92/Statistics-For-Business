@@ -37,7 +37,7 @@ In this section, we will be covering the below:
 
 The diagram below visually depicts the difference between these two data types: [3]
 
-<p align="center"> <img width="2000" src= "/Pics_S/s101.png"> </p>
+<p align="center"> <img width="1500" src= "/Pics_S/s101.png"> </p>
 
 ### What Is A Distribution
 
@@ -49,7 +49,7 @@ If we had a group of people and their ages, a probability distirbution will give
 
 The diagram below shows us a discrete distribution and a continuous distribution: [5]
 
-<p align="center"> <img width="2000" src= "/Pics_S/s2.jpg"> </p>
+<p align="center"> <img width="1500" src= "/Pics_S/s2.jpg"> </p>
 
 **Note:** For continuous distributions, the probability is found as an area under the curve. The total area under the curve is 100%, and we are unable to find the probability of a single line as the area of a line is negligable.
 
@@ -89,7 +89,7 @@ From the above, we observe that 68.2% of the population lies within one standard
 
 The general form of probability density function is 
 
-<p align="center"> <img width="500" src= "/Pics_S/NDPDF.png"> </p>
+<p align="center"> <img width="1000" src= "/Pics_S/NDPDF.png"> </p>
 
 Properties of the Normal Distributions:
 
