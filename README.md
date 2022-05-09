@@ -55,7 +55,25 @@ The diagram below shows us a discrete distribution and a continuous distribution
 
 ### Standard Deviation
 
-**Standard Deviation:** The standard deviation is a measure of the amount of variation or dispersion of a set of values. A low standard deviation indicates that the values tend to be close to the mean (also called the expected value) of the set, while a high standard deviation indicates that the values are spread out over a wider range. [6]
+**Variance:** The term variance refers to a statistical measurement of the spread between numbers in a data set. More specifically, variance measures how far each number in the set is from the mean and thus from every other number in the set. Variance is often depicted by this symbol sigma squared: σ^2. The square root of the variance is the standard deviation. [7]
+
+**Standard Deviation:** The standard deviation is a measure of the amount of variation or dispersion of a set of values. A low standard deviation indicates that the values tend to be close to the mean (also called the expected value) of the set, while a high standard deviation indicates that the values are spread out over a wider range. The standard deviation is often depicted by the symbol sigma: σ [6]
+
+Example: Let's say we have data for a population, which includes the salaries of five people, they are: £60,000, £70,0000, £72,500, £85,000 and £93,000.
+
+The average (or population mean, μ) is given by:
+
+μ = (60000 + 70000 + 72500 + 85000 + 93000)/5 = £76,100
+
+The variance (or population variance, σ^2) is given by:
+
+σ^2 = ((60000-76100)^2 + (70000-76100)^2 + ... + (93000-76100)^2))/5 = 134,840,000
+
+The standard deviation (or population standard deviation, σ) is given by:
+
+σ = sqrt(variance) = sqrt(((60000-76100)^2 + (70000-76100)^2 + ... + (93000-76100)^2))/5) =  £11,612
+
+
 
 # References
 
@@ -70,3 +88,5 @@ The diagram below shows us a discrete distribution and a continuous distribution
 [5](https://twitter.com/statsatoz/status/964159304067633153?lang=zh-Hant). Twitter post: @statsatoz – Statistics A-Z
 
 [6](https://en.wikipedia.org/wiki/Standard_deviation). Wikipedia: Standard Deviation
+
+[7](https://www.investopedia.com/terms/v/variance.asp#:~:text=In%20statistics%2C%20variance%20measures%20variability,values%20in%20the%20data%20set.). Investopedia: Variance
