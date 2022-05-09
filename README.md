@@ -73,7 +73,19 @@ The standard deviation (or population standard deviation, σ) is given by:
 
 σ = sqrt(variance) = sqrt(((60000-76100)^2 + (70000-76100)^2 + ... + (93000-76100)^2))/5) =  £11,612
 
+### Normal Distribution
 
+In statistics, a Normal Distribution (also known as Gaussian, Gauss, bell curves or Laplace–Gauss distribution) is a type of continuous probability distribution for a real-valued random variable [8]. In a Normal Distribution, data is symmetrically distributed with no skew. When plotted on a graph, the data follows a bell shape, with most values clustering around a central region and tapering off as they go further away from the center. [9]
+
+The diagram below gives the Normal Distribution curve
+
+<p align="center"> <img width="2000" src= "/Pics_S/ND.png"> </p>
+
+The general form of probability density function is 
+
+<p align="center"> <img width="2000" src= "/Pics_S/NDPDF.png"> </p>
+
+The parameter *μ* is the mean or expectation of the distribution (and also its median and mode), while the parameter *σ* is its standard deviation. The variance of the distribution is σ^2. 
 
 # References
 
@@ -89,4 +101,8 @@ The standard deviation (or population standard deviation, σ) is given by:
 
 [6](https://en.wikipedia.org/wiki/Standard_deviation). Wikipedia: Standard Deviation
 
-[7] (https://www.investopedia.com/terms/v/variance.asp#:~:text=In%20statistics%2C%20variance%20measures%20variability,values%20in%20the%20data%20set.). Investopedia: Variance
+[7](https://www.investopedia.com/terms/v/variance.asp#:~:text=In%20statistics%2C%20variance%20measures%20variability,values%20in%20the%20data%20set.). Investopedia: Variance
+
+[8](https://en.wikipedia.org/wiki/Normal_distribution). Wikipedia: Normal distribution
+
+[9](https://www.scribbr.com/statistics/normal-distribution/#:~:text=Height%2C%20birth%20weight%2C%20reading%20ability,designed%20for%20normally%20distributed%20populations.). Scribbr: Normal Distribution | Examples, Formulas, & Uses
