@@ -1,6 +1,6 @@
 # Statistics For Business
 
-This repository contains a full course in statistics that are used in a business environment. Before we get busy with the codes, understanding the fundamentals is crucial when performing analytics and interpreting results. The good news is however, the course is produced in a way that someone who has never studied statistics can learn from the course and make it to the end successfully.
+This repository contains a full course on the statistics that are used in a business environment. Before we get busy with the codes, understanding the fundamentals is crucial when performing analytics and interpreting results. The good news is however, the course is produced in a way that someone who has never studied statistics can learn from the course and make it to the end successfully. We begin by looking at the course structure so the course is easy to navigate, incase you are required to only learn or revise a certain topic.
 
 I hope you enjoy this course just as much as I have enjoyed making it and teaching it to colleagues and students just like you.
 
