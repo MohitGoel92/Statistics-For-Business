@@ -91,11 +91,13 @@ Properties of the Normal Distributions:
 - The distribution is symmetric about the mean—half the values fall below the mean and half above the mean.
 - The distribution can be described by two values: the mean and the standard deviation.
 
-The below diagrams show the Normal Distribution with different means, and the Normal Distribution with different standard deviations: [9]
+The below diagrams show the Normal Distribution with different means, the Normal Distribution with different standard deviations, and the Normal Distribution with different means and standard deviations: [9]
 
 <p align="center"> <img width="500" src= "/Pics_S/NDM.png"> </p>
 
 <p align="center"> <img width="500" src= "/Pics_S/NDSD.png"> </p>
+
+<p align="center"> <img width="500" src= "/Pics_S/NDMSD.png"> </p>
 
 
 # References
