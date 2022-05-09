@@ -81,7 +81,7 @@ The diagram below gives the Normal Distribution curve
 
 <p align="center"> <img width="1500" src= "/Pics_S/ND.png"> </p>
 
-
+From the above, we observe that 68.2% of the population lies within one standard deviation (± 1σ), 95.4% of the population lies within two standard deviations (± 2σ), and 99.6% of the population lies within three standard deviations (± 3σ).
 
 The general form of probability density function is 
 
