@@ -13,6 +13,7 @@ I hope you enjoy this course just as much as I have enjoyed making it and teachi
   - Normal Distribution.
   - Skewness.
   - Mean, Median, Mode.
+  - Correlation
 
 - Section 2: Central Limit Theorem
 - Section 3: Hypothesis Testing and Statistical Significance
