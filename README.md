@@ -111,7 +111,7 @@ The below diagrams show the Normal Distribution with different means, the Normal
 
 The below diagram illustrates positive, symmetrical and negative skewness respectively. [10]
 
-<p align="center"> <img width="500" src= "/Pics_S/SKEW.png"> </p>
+<p align="center"> <img width="1000" src= "/Pics_S/SKEW.png"> </p>
 
 # References
 
