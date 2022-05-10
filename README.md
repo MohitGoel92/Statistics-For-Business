@@ -123,6 +123,28 @@ The below diagram illustrates positive, symmetrical and negative skewness respec
 
 <p align="center"> <img width="1000" src= "/Pics_S/SKEW.png"> </p>
 
+### Exercise: The clothing store
+
+We are in a team that develops clothing style for our company depending on company priorities and industry trends. The company has decided to develop a seperate clothing line called "Big and Tall", where we cater for those are extremely tall. To test its viability, we will be undertaking a statistical analysis.
+
+Here is what's required:
+
+- A normal distribution of 1000 observations for heights of men in the US.
+- A normal distribution of 1000 observations for heights of women in the US.
+- Identify the minimum height of the 2.2% of the tallest people in our population.
+
+In addition, we have the following information:
+
+- Mens heights have an average of 69.1 inches (175.5 cm) and a standard deviation of 2.9 inches (7.4 cm).
+- Womens heights have an average of 63.7 inches (161.8 cm) and a standard deviation of 2.7 inches (6.9 cm).
+
+Hint:
+
+Use the NORM.INV() function combined with RAND() in Excel.
+
+- NORM.INV(RAND(), 69.1, 2.9)
+- NORM.INV(RAND(), 63.7, 2.7)
+
 # References
 
 [1](https://www.mathsisfun.com/data/data-discrete-continuous.html). Maths Is Fun: Discrete and Continuous Data.
