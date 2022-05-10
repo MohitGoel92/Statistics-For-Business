@@ -123,9 +123,14 @@ The below diagram illustrates positive, symmetrical and negative skewness respec
 
 <p align="center"> <img width="1000" src= "/Pics_S/SKEW.png"> </p>
 
-### Exercise: The clothing store
+### Exercise: The Clothing Store
 
-We are in a team that develops clothing style for our company depending on company priorities and industry trends. The company has decided to develop a seperate clothing line called "Big and Tall", where we cater for those are extremely tall. To test its viability, we will be undertaking a statistical analysis.
+We are in the new product development team that develops clothing styles for our company depending on company priorities and industry trends. The company has decided to develop a seperate clothing line called "Big and Tall", where we cater for those who are extremely tall. We have been asked by management to illustrate its viability using visuals, as a short statistical analysis.
+
+We have the following information available to us:
+
+- Mens heights have an average of 69.1 inches (175.5 cm) and a standard deviation of 2.9 inches (7.4 cm).
+- Womens heights have an average of 63.7 inches (161.8 cm) and a standard deviation of 2.7 inches (6.9 cm).
 
 Here is what's required:
 
@@ -133,17 +138,32 @@ Here is what's required:
 - A normal distribution of 1000 observations for heights of women in the US.
 - Identify the minimum height of the 2.2% of the tallest people in our population.
 
-In addition, we have the following information:
+To perfrom this short analysis, we will be using the NORM.INV function in Excel.
 
-- Mens heights have an average of 69.1 inches (175.5 cm) and a standard deviation of 2.9 inches (7.4 cm).
-- Womens heights have an average of 63.7 inches (161.8 cm) and a standard deviation of 2.7 inches (6.9 cm).
+**Note:** I have used Google sheets for this exercise as Google sheets are available to everyone, free of charge but you can use Microsoft Excel too if you prefer.
 
-Hint:
+We will use the NORM.INV() function combined with RAND() in Excel. The standard form looks like:
 
-Use the NORM.INV() function combined with RAND() in Excel.
+```
+Round(NORM.INV(RAND(),μ,σ,1))
 
+Where: μ is the population mean
+       σ is the standard deviation
+```
+
+In the spreadsheet attached, we will be using the below formulas to generate 1000 observations from our normal distribution:
+
+```
 - NORM.INV(RAND(), 69.1, 2.9)
 - NORM.INV(RAND(), 63.7, 2.7)
+```
+
+From the normal distribution diagram above, we observe that the top 2.2% lies after the 2nd standard deviation. Therefore, in order to identify the minimum height, we simply need to perform the below calculation:
+
+```
+Minimum height of top 2.2% of men = 69.1 + 2*(2.9) = 74.9 inches
+Minimum height of top 2.2% of women = 63.7 + 2*(2.7) = 69.1 inches
+```
 
 # References
 
