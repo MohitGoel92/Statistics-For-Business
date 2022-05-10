@@ -63,7 +63,7 @@ The diagram below shows us a discrete distribution and a continuous distribution
 
 The formulas for mean, median, mode, variance and standard deviation are given in the table below: [11]
 
-<p align="center"> <img width="750" src= "/Pics_S/F1.png"> </p>
+<p align="center"> <img width="400" src= "/Pics_S/F1.png"> </p>
 
 We will revisit the mean, median and mode in the following topics which will make our understanding clearer by observing diagrams and examples.
 
