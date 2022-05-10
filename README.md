@@ -53,9 +53,19 @@ The diagram below shows us a discrete distribution and a continuous distribution
 
 **Note:** For continuous distributions, the probability is found as an area under the curve. The total area under the curve is 100%, and we are unable to find the probability of a single line as the area of a line is negligable.
 
-### Mean, Mode and Median
+### Mean, Median and Mode
 
+**Mean:** The "mean" is the "average". To find the mean, we must add up all the numbers and divide by the total number of numbers that exist. 
 
+**Median:** The "median" is the middle value in our dataset. To find the median, we must first order our dataset in numerical order, and then find the middle number. If the number of values we have is even, we take the average of the two values that are in the middle.
+
+**Mode:** The "mode" is the value that occurs most often. If there is no repeated number in our dataset, then the mode does not exist.
+
+The formulas for mean, median, mode, variance and standard deviation are given in the table below: [11]
+
+<p align="center"> <img width="750" src= "/Pics_S/F1.png"> </p>
+
+We will revisit the mean, median and mode in the following topics which will make our understanding clearer by observing diagrams and examples.
 
 ### Standard Deviation
 
@@ -134,3 +144,5 @@ The below diagram illustrates positive, symmetrical and negative skewness respec
 [9](https://www.scribbr.com/statistics/normal-distribution/#:~:text=Height%2C%20birth%20weight%2C%20reading%20ability,designed%20for%20normally%20distributed%20populations.). Scribbr: Normal Distribution | Examples, Formulas, & Uses
 
 [10](https://en.wikipedia.org/wiki/Skewness). Wikipedia: Skewness
+
+[11](https://www.cuemath.com/basic-statistics-formula/). CUEMATH: Basic Statistics Formula
