@@ -140,8 +140,8 @@ We have the following information available to us:
 
 Here is what's required:
 
-- A normal distribution of 1000 observations for heights of men in the US.
-- A normal distribution of 1000 observations for heights of women in the US.
+- A normal distribution of 1000 observations for heights of men in the US to generate a distribution.
+- A normal distribution of 1000 observations for heights of women in the US to generate a distribution.
 - Identify the minimum height of the 2.2% of the tallest people in our population.
 
 To perfrom this short analysis, we will be using the NORM.INV function in Excel.
@@ -173,6 +173,21 @@ Minimum height of top 2.2% of women = 63.7 + 2*(2.7) = 69.1 inches
 
 # Section 2: Central Limit Theorem
 
+**Population:** A population is the entire group that we wish to draw conclusions about. [12]
+
+The population has parameters (**N**,**μ**,**σ**)
+
+where: **N** is the population size
+       **μ** is the population mean
+       **σ** is the standard deviation
+       
+**Sample:** A sample is the specific group that we will collect data from. The size of the sample is always less than the total size of the population, as it is a subset of the population. [12]
+
+The sample has parameters (**n**,**xˉ**,**s**)
+
+where: **n** is the sample size
+       **xˉ** (x bar) is the sample mean
+       **s** is the sample standard deviation
 
 
 # References
@@ -198,3 +213,5 @@ Minimum height of top 2.2% of women = 63.7 + 2*(2.7) = 69.1 inches
 [10](https://en.wikipedia.org/wiki/Skewness). Wikipedia: Skewness
 
 [11](https://www.cuemath.com/basic-statistics-formula/). CUEMATH: Basic Statistics Formula
+
+[12](https://www.scribbr.com/methodology/population-vs-sample/#:~:text=A%20population%20is%20the%20entire,t%20always%20refer%20to%20people.). Scribbr: Population vs. Sample | Definitions, Differences & Examples
