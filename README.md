@@ -1,3 +1,5 @@
+### Incorporate all stats from A levels and Uni + ask masters stats people for their notes and make a full 0 to hero stats course. Spick and spam, with all the questions, exercises and every thing fully + beautifully explained.
+
 # Statistics For Business
 
 This repository contains a full course on the statistics that are used in a business environment. Before we get busy with the codes, understanding the fundamentals is crucial when performing analytics and interpreting results. The good news is however, the course is produced in a way that someone who has never studied statistics can learn from the course and make it to the end successfully. We begin by looking at the course structure so the course is easy to navigate, incase you are required to only learn or revise a certain topic.
@@ -13,9 +15,13 @@ I hope you enjoy this course just as much as I have enjoyed making it and teachi
   - Standard Deviation.
   - Normal Distribution.
   - Skewness.
-  - Correlation
-
+  
 - Section 2: Central Limit Theorem
+  - Populations and Samples.
+  - Sampling Distributions
+  - Central Limit Theorem.
+  - Z-Score
+
 - Section 3: Hypothesis Testing and Statistical Significance
 
 # Section 1: Distribution
@@ -164,6 +170,10 @@ From the normal distribution diagram above, we observe that the top 2.2% lies af
 Minimum height of top 2.2% of men = 69.1 + 2*(2.9) = 74.9 inches
 Minimum height of top 2.2% of women = 63.7 + 2*(2.7) = 69.1 inches
 ```
+
+# Section 2: Central Limit Theorem
+
+
 
 # References
 
