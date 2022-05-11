@@ -178,7 +178,9 @@ Minimum height of top 2.2% of women = 63.7 + 2*(2.7) = 69.1 inches
 The population has parameters (**N**,**μ**,**σ**)
 
 where: **N** is the population size
+
        **μ** is the population mean
+       
        **σ** is the standard deviation
        
 **Sample:** A sample is the specific group that we will collect data from. The size of the sample is always less than the total size of the population, as it is a subset of the population. [12]
@@ -186,7 +188,9 @@ where: **N** is the population size
 The sample has parameters (**n**,**xˉ**,**s**)
 
 where: **n** is the sample size
+
        **xˉ** (x bar) is the sample mean
+       
        **s** is the sample standard deviation
 
 
