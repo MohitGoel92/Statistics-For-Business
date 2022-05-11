@@ -173,6 +173,10 @@ Minimum height of top 2.2% of women = 63.7 + 2*(2.7) = 69.1 inches
 
 # Section 2: Central Limit Theorem
 
+We will first discuss the difference betweem a population and a sample. Below is a diagram that illustrates this:
+
+<p align="center"> <img width="750" src= "/Pics_S/sample.png"> </p>
+
 **Population:** A population is the entire group that we wish to draw conclusions about. [12]
 
 The population has parameters (**N**,**μ**,**σ**)
@@ -192,6 +196,8 @@ where:
 - **n** is the sample size
 - **xˉ** (x bar) is the sample mean
 - **s** is the sample standard deviation
+
+
 
 # References
 
