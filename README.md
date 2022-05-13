@@ -194,8 +194,16 @@ The sample has parameters (**n**,**xˉ**,**s**)
 where:
 
 - **n** is the sample size
-- **xˉ** (x bar) is the sample mean
+- **xˉ** (x-bar) is the sample mean
 - **s** is the sample standard deviation
+
+### Sampling Distribution
+
+**Sampling Distribution of the Sample Mean:** If we take a large number of different samples of the same size and calculate the sample mean per sample, plotting that on a graph would give us the sampling distribution of the sample mean.
+
+**Note:** The larger our sample size, the more we will find our sample mean being closer to the population mean. 
+
+<p align="center"> <img width="500" src= "/Pics_S/SD1.png"> </p>
 
 
 
@@ -225,4 +233,6 @@ where:
 
 [12](https://www.scribbr.com/methodology/population-vs-sample/#:~:text=A%20population%20is%20the%20entire,t%20always%20refer%20to%20people.). Scribbr: Population vs. Sample | Definitions, Differences & Examples
 
-[13](https://www.omniconvert.com/what-is/sample-size/). Omniconvert:What is ... Sample size
+[13](https://www.omniconvert.com/what-is/sample-size/). Omniconvert: What is ... Sample size
+
+[14](https://online.stat.psu.edu/stat500/lesson/4/4.1). PennState Eberly College of Science: Sampling Distribution of the Sample Mean
