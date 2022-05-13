@@ -203,7 +203,7 @@ where:
 
 **Note:** The larger our sample size, the more we will find our sample mean being closer to the population mean. 
 
-<p align="center"> <img width="500" src= "/Pics_S/SD1.png"> </p>
+<p align="center"> <img width="750" src= "/Pics_S/SD1.png"> </p>
 
 
 
