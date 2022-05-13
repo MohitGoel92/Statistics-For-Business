@@ -205,6 +205,12 @@ where:
 
 <p align="center"> <img width="750" src= "/Pics_S/SD1.png"> </p>
 
+### Central Limit Theorem
+
+The Central Limit Theorem is also known as the most important theorem in statistics and even mathematics. It is important as it is useful to us when we are observing the world, running experiments and assessing populations.
+
+**Central Limit Theorem:** The sampling distribution of the sample mean will approximate to a normal distribution.
+
 
 
 # References
